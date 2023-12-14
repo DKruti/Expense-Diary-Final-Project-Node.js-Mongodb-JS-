@@ -17,11 +17,11 @@ The Personal Expense Diary project is built using Node.js, MongoDB Compass, HTML
 
 1. **Add New Expense:** Allows users to add new expenses to the diary.
  
-<img width="1440" alt="Screen Shot 2023-12-14 at 1 50 39 AM" src="https://github.com/DKruti/Expense-Diary-Final-Project-Node.js-Mongodb-JS-/assets/120690177/0dc3a2d0-41e9-4a8b-a7a1-ea5ab7441b40">
-  
+<img width="723" alt="Add Expenses" src="https://github.com/DKruti/Expense-Diary-Final-Project-Node.js-Mongodb-JS-/assets/120690177/b4cdab62-5576-496b-a76b-95973ea685fa">
+
   **Successful message**
-  
- <img width="1428" alt="Screen Shot 2023-12-14 at 1 50 44 AM" src="https://github.com/DKruti/Expense-Diary-Final-Project-Node.js-Mongodb-JS-/assets/120690177/db616d3f-0953-421b-a808-7540fbbba10d">
+
+<img width="735" alt="Successfully added" src="https://github.com/DKruti/Expense-Diary-Final-Project-Node.js-Mongodb-JS-/assets/120690177/2799dad3-6f81-4739-8431-d5272d9e37b3">
 
 3. **List All Expenses:** Displays a list of all recorded expenses.
  
@@ -29,7 +29,8 @@ The Personal Expense Diary project is built using Node.js, MongoDB Compass, HTML
 
 5. **Update Expense:** Enables users to update existing expenses.
 
-<img width="1440" alt="Screen Shot 2023-12-14 at 1 51 10 AM" src="https://github.com/DKruti/Expense-Diary-Final-Project-Node.js-Mongodb-JS-/assets/120690177/2c92b53f-da0b-45c1-9a89-282bb84f944a">
+<img width="736" alt="update screenshot" src="https://github.com/DKruti/Expense-Diary-Final-Project-Node.js-Mongodb-JS-/assets/120690177/27dc4834-4226-40b4-9786-6b1067ec75bf">
+
 
 7. **Delete Expense:** Provides the ability to delete recorded expenses.
 
